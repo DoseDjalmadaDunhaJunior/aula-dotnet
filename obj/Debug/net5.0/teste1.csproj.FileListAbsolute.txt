@@ -1,0 +1,16 @@
+D:\CiaCard\vsCode\projetoX\teste1\bin\Debug\net5.0\teste1.exe
+D:\CiaCard\vsCode\projetoX\teste1\bin\Debug\net5.0\teste1.deps.json
+D:\CiaCard\vsCode\projetoX\teste1\bin\Debug\net5.0\teste1.runtimeconfig.json
+D:\CiaCard\vsCode\projetoX\teste1\bin\Debug\net5.0\teste1.runtimeconfig.dev.json
+D:\CiaCard\vsCode\projetoX\teste1\bin\Debug\net5.0\teste1.dll
+D:\CiaCard\vsCode\projetoX\teste1\bin\Debug\net5.0\ref\teste1.dll
+D:\CiaCard\vsCode\projetoX\teste1\bin\Debug\net5.0\teste1.pdb
+D:\CiaCard\vsCode\projetoX\teste1\obj\Debug\net5.0\teste1.csproj.AssemblyReference.cache
+D:\CiaCard\vsCode\projetoX\teste1\obj\Debug\net5.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CiaCard\vsCode\projetoX\teste1\obj\Debug\net5.0\teste1.AssemblyInfoInputs.cache
+D:\CiaCard\vsCode\projetoX\teste1\obj\Debug\net5.0\teste1.AssemblyInfo.cs
+D:\CiaCard\vsCode\projetoX\teste1\obj\Debug\net5.0\teste1.csproj.CoreCompileInputs.cache
+D:\CiaCard\vsCode\projetoX\teste1\obj\Debug\net5.0\teste1.dll
+D:\CiaCard\vsCode\projetoX\teste1\obj\Debug\net5.0\ref\teste1.dll
+D:\CiaCard\vsCode\projetoX\teste1\obj\Debug\net5.0\teste1.pdb
+D:\CiaCard\vsCode\projetoX\teste1\obj\Debug\net5.0\teste1.genruntimeconfig.cache
