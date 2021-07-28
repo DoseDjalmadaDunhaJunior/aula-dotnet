@@ -1,15 +1,24 @@
 namespace teste1
 {
     public class Game{
-        private readonly Jogador _jogador;
+        private readonly iJogador _jogador1;
 
-        public Game(Jogador jogador)
+        private readonly iJogador _jogador2;
+
+        public Game(iJogador jogador1, iJogador jogador2)
         {
-            _jogador = jogador;
+            _jogador1 = jogador1;
+            _jogador2= jogador2;
         }        public void IniciarJogo(){
-            _jogador.corre();
-            _jogador.chuta();
-            _jogador.passe();
+            System.Console.Write(_jogador1.Corre());
+            System.Console.Write(_jogador1.Chuta());
+            System.Console.Write(_jogador1.Passe());
+
+             System.Console.Write("\nproximo jogador\n");           
+
+            System.Console.Write(_jogador2.Corre());
+            System.Console.Write(_jogador2.Chuta());
+            System.Console.Write(_jogador2.Passe());
         }
     }
 }

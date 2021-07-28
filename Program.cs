@@ -6,31 +6,12 @@ namespace teste1
     {
         static void Main(string[] args)
         {
-            var jogo = new Game(new Jogador("josé"));
+            var jogo = new Game
+            (new Jogador1("José"), 
+            new Jogador2());
             jogo.IniciarJogo();
         }
     }
 
-    public class Jogador
-    {
-        public readonly string _Nome;
-
-        public Jogador(string nome)
-        {
-            _Nome = nome;
-        }
-        public void chuta()
-        {
-            Console.Write($"{_Nome} esta chutando\n");
-        }
-
-                public void corre()
-        {
-                        Console.Write($"{_Nome} esta correndo\n");
-        }
-                public void passe()
-        {
-                        Console.Write($"{_Nome} esta passando\n");
-        }
-    }
+    
 }
